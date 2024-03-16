@@ -1,6 +1,6 @@
 # Ejemplos de condicionales en python
 ## Determinar si un número entero corresponde al código ASCII de alguna vocal minúscula
-'''python
+´´´ python
 numero : int #Declaracion de variable
 numero = 100  #Inicializar la variable
 if numero == ord('a'):  #condicionales estableciendo si se cumple algun caso de vocal minuscula
@@ -15,5 +15,5 @@ elif numero == ord('u'):
   print('el número corresponde al código ASCII de la vocal u')
 else:
   print('el número no corresponde al código ASCII de alguna vocal minúscula')
-  '''
+  ´´´´
   
