@@ -126,4 +126,4 @@ if a < (b+c) and b < (a+c) and c < (a+b): #desigualdad triangular
 else:
   print('No se puede construir un triángulo con las longitudes dadas')
 ```
-[Notebook](/reto4.ipynb) 
+
