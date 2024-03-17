@@ -1,5 +1,5 @@
 # Reto 04: condicionales en python
-[Notebook de python](/reto4.ipynb)
+--[Notebook de python](/reto4.ipynb)--
 ## Determinar si un número entero corresponde al código ASCII de alguna vocal minúscula
 ### En forma preestablecida: 
 ```python 
