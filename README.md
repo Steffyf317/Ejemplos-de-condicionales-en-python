@@ -1,4 +1,4 @@
-# Ejemplos de condicionales en python
+# Reto 04: condicionales en python
 ## Determinar si un número entero corresponde al código ASCII de alguna vocal minúscula
 ### En forma preestablecida: 
 ```python 
