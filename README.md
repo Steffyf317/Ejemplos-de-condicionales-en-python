@@ -1,4 +1,5 @@
 # Reto 04: condicionales en python
+[Notebook de python](/reto4.ipynb)
 ## Determinar si un número entero corresponde al código ASCII de alguna vocal minúscula
 ### En forma preestablecida: 
 ```python 
@@ -125,3 +126,4 @@ if a < (b+c) and b < (a+c) and c < (a+b): #desigualdad triangular
 else:
   print('No se puede construir un triángulo con las longitudes dadas')
 ```
+[Notebook](/reto4.ipynb) 
