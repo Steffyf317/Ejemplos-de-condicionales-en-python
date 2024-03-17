@@ -55,7 +55,7 @@ else:
   print("El código ASCII de la letra es " +str(ord(cadena))+ " y es impar")
 ```
 
-## programa en Python para determinar si el carácter es un dígito o no
+## Programa en Python para determinar si el carácter es un dígito o no
 ```python
 caracter: str #Declarar variable
 caracter  = input('Ingrese un carácter ') #Pedir a usuario que ingrese un caracter
@@ -65,7 +65,7 @@ else:
   print('El carácter no es un dígito')
 ```
 
-## programa que permite determinar si un número real es positivo, negativo o cero
+## Programa que permite determinar si un número real es positivo, negativo o cero
 ```python
 num: float #declarar variable
 num = float(input('Ingrese un número ')) #pedir al usuario un numero real
